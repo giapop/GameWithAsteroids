@@ -1,0 +1,104 @@
+canvas{
+   
+    border: 2px solid rgb(45, 23, 243);
+    position: absolute;
+    top: 50%;
+     left: 50%;
+            margin-left: -430px;
+            margin-top: -300px;
+ 
+}
+
+h1{
+    font-size: 39px;
+    color: darkseagreen;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+#id_scor{
+    font-size: 20px;
+    color:rgb(62, 67, 61);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: justify;
+   background-color: rgb(18, 203, 30);
+   width: 130px;
+    padding: 0 20px;
+
+}
+#id_nrVieti{
+    font-size: 20px;
+    color:rgb(62, 67, 61);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: justify;
+   background-color: rgb(243, 168, 211);
+   width: 150px;
+    padding: 0 20px;
+
+}
+#id_btnPlay{
+    border:0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #911c53;
+    border-radius: 15px;
+    background-color: #e25817;
+   
+    width: 130px;
+    margin-bottom: 10px;  
+}
+#id_btnRestart{
+    border:0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #911c53;
+    border-radius: 15px;
+    background-color: #1791e2;
+    margin-top: 10px;
+    width: 130px;
+    margin-bottom: 10px;
+}
+
+#id_Nume_div{
+margin-top: 30px;
+margin-bottom: 30px;
+font-weight: bold;
+}
+
+#thead{
+    background-color: aqua;
+    line-height: 2.5;
+
+}
+#tfoot{
+    background-color: rgb(203, 248, 154);
+    line-height: 2.5;
+}
+table, th, td { 
+    margin-top: 20px;
+    border: 1px solid #000; 
+   } 
+   
+   tr:nth-child(even){ 
+    background: #efefef; 
+   } 
+   tr:hover { 
+    background: #b8d8b8; 
+   } 
+   th { 
+    background: #bbbbf0; 
+   }
+
